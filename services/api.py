@@ -17,4 +17,3 @@ def tracking(code):
             str_date = x['dtHrCriado']
             print("• Data: " + str_date[8:10] + "/" + str_date[5:7] + "/" + str_date[0:4])
             print("• Horário: " + str_date[11:13] + ":" + str_date[14:16] + "\n")
-tracking("OS122445211BR")
