@@ -8,7 +8,7 @@
 > - Descrição: API para rastreio de objetos na base dos correios brasileiro
 > - Tipos de retorno: json
 
-### Consumo da API:
+### Código:
 ```python
 def tracking(code):
     print("\x1b[2J\x1b[1;1H")
